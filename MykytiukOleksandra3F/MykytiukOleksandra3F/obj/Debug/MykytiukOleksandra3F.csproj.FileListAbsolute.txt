@@ -1,0 +1,7 @@
+C:\Users\sashw\Desktop\MykytiukOleksandra3F\MykytiukOleksandra3F\bin\Debug\MykytiukOleksandra3F.exe.config
+C:\Users\sashw\Desktop\MykytiukOleksandra3F\MykytiukOleksandra3F\bin\Debug\MykytiukOleksandra3F.exe
+C:\Users\sashw\Desktop\MykytiukOleksandra3F\MykytiukOleksandra3F\bin\Debug\MykytiukOleksandra3F.pdb
+C:\Users\sashw\Desktop\MykytiukOleksandra3F\MykytiukOleksandra3F\obj\Debug\MykytiukOleksandra3F.csproj.AssemblyReference.cache
+C:\Users\sashw\Desktop\MykytiukOleksandra3F\MykytiukOleksandra3F\obj\Debug\MykytiukOleksandra3F.csproj.CoreCompileInputs.cache
+C:\Users\sashw\Desktop\MykytiukOleksandra3F\MykytiukOleksandra3F\obj\Debug\MykytiukOleksandra3F.exe
+C:\Users\sashw\Desktop\MykytiukOleksandra3F\MykytiukOleksandra3F\obj\Debug\MykytiukOleksandra3F.pdb
